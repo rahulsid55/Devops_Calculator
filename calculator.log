@@ -1,2 +1,18 @@
 2022-04-15 15:14:22.427 [main] INFO  Calculator - Executing square root function for 4.0
 2022-04-15 15:59:36.616 [main] INFO  Calculator - Executing square root function for 1.0
+15/Apr/2022:17:06:19 576 [Calculator.java] [INFO] Calculator Executing factorial function for 3
+15/Apr/2022:17:06:19 585 [Calculator.java] [INFO] Calculator Executing factorial function for 3
+15/Apr/2022:17:06:19 588 [Calculator.java] [INFO] Calculator Executing natural logarithm function for 2.718
+15/Apr/2022:17:06:19 589 [Calculator.java] [INFO] Calculator Executing natural logarithm function for 2.718
+15/Apr/2022:17:06:19 590 [Calculator.java] [INFO] Calculator Executing square root function for 25.0
+15/Apr/2022:17:06:19 591 [Calculator.java] [INFO] Calculator Executing square root function for 9.0
+15/Apr/2022:17:06:19 592 [Calculator.java] [INFO] Calculator Executing power function for 2.0
+15/Apr/2022:17:06:19 593 [Calculator.java] [INFO] Calculator Executing power function for 2.0
+15/Apr/2022:17:06:28 650 [Calculator.java] [INFO] Calculator Executing factorial function for 3
+15/Apr/2022:17:06:28 654 [Calculator.java] [INFO] Calculator Executing factorial function for 3
+15/Apr/2022:17:06:28 657 [Calculator.java] [INFO] Calculator Executing natural logarithm function for 2.718
+15/Apr/2022:17:06:28 657 [Calculator.java] [INFO] Calculator Executing natural logarithm function for 2.718
+15/Apr/2022:17:06:28 658 [Calculator.java] [INFO] Calculator Executing square root function for 25.0
+15/Apr/2022:17:06:28 659 [Calculator.java] [INFO] Calculator Executing square root function for 9.0
+15/Apr/2022:17:06:28 660 [Calculator.java] [INFO] Calculator Executing power function for 2.0
+15/Apr/2022:17:06:28 661 [Calculator.java] [INFO] Calculator Executing power function for 2.0

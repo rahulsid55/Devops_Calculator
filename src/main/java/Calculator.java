@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.*;
-//import org.apache.logging.log4j.Logger;
-//import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 public class Calculator {
 
@@ -16,14 +16,14 @@ public class Calculator {
     }
 
     public static double squareRoot(double num) {
-        //logger.info("Executing square root function for " + num);
+        logger.info("Executing square root function for " + num);
         double ans = Math.sqrt(num);
         return ans;
     }
 
     public static int factorial(int num) {
         int ans = num;
-        //logger.info("Executing factorial function for " + num);
+        logger.info("Executing factorial function for " + num);
         for (int i = num-1; i >= 1; i --)
         {
             ans = ans*i;
@@ -32,13 +32,13 @@ public class Calculator {
     }
 
     public static double naturalLog(double num) {
-        //logger.info("Executing natural logarithm function for " + num);
+        logger.info("Executing natural logarithm function for " + num);
         double ans = Math.log(num);
         return ans;
     }
 
     public static double pow(double num, double exponent) {
-        //logger.info("Executing power function for " + num);
+        logger.info("Executing power function for " + num);
         double ans = Math.pow(num, exponent);
         return ans;
     }
@@ -62,7 +62,7 @@ public class Calculator {
                 break;
         }
     }
-    //private static final Logger logger = LogManager.getLogger(Calculator.class);
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
     public static void main (String[] args)
     {
         Calculator calc = new Calculator();
