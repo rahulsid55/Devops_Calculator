@@ -1,0 +1,7 @@
+- name: Push docker image to docker hub
+  hosts: localhost
+  connection: local
+  remote_user: rahul
+  tasks:
+    - name: pull image
+      command: docker pull rahulsid532/calculator_devops:latest
